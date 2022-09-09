@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class SuperGreeter {
         public void start(){
-            System.out.println("det virker altså");
+            System.out.println("det virker altså men dette kommer ikke med på git hub før jeg pusher");
         }
     Scanner indTast = new Scanner(System.in);
         public void indtastNavn(){
@@ -21,6 +21,4 @@ public class SuperGreeter {
             sg.indtastNavn();
             sg.dinAlder();
         }
-
-
 }
